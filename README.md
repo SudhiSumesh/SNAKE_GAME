@@ -2,7 +2,7 @@
 
 This is a single-player game where the snake gets bigger by eating the food and tries to save itself from the boundary of the rectangle. If the snake goes out the boundary or eats its own body the game will be over.
 
-Live Demo : https://sdhisumesh.github.io/SNAKE_GAME/
+Live Demo : https://sudhisumesh.github.io/SNAKE_GAME/
 
 ## Installation
 
